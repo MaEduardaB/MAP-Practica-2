@@ -3,12 +3,6 @@
         static void Main(string[] args) {
 
             Console.WriteLine("Hello, Pa!");
-
-            Console.WriteLine("");
-            Console.WriteLine("Hel lo, Mad!");
-
-            Console.WriteLine("Hello, Mad!");
-
         }
     }
 }
